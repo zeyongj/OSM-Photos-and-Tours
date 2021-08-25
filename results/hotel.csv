@@ -1,0 +1,15 @@
+,id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price,minimum_nights,number_of_reviews,last_review,reviews_per_month,calculated_host_listings_count,availability_365,distance between
+3,5567902,"Private room for ONE person, All incl",16631729,Nima,,Downtown,49.28506,-123.11247,Private room,45,90,12,2015-09-14,0.49,2,126,93.1054493687007
+1,3248395,170 1 BED- VIEW SUITE!,600607,Bruce,,Downtown,49.28488,-123.11244,Entire home/apt,83,30,10,2018-02-01,0.33,46,48,94.91714691171174
+12,34895728,1 bedroom fully furnished in the heart of VanCity,263019124,Eddy,,Downtown,49.28435,-123.11226,Entire home/apt,100,30,4,2021-03-02,0.3,1,155,116.813102205651
+8,15988395,Rare find: Furnished Condo in the Center,8041031,Amer,,Downtown,49.28536,-123.11279,Entire home/apt,69,30,0,,,1,0,118.57283623159182
+11,33786510,Sectioned-off room in central downtown location,248380003,John,,Downtown Eastside,49.28318,-123.11073,Private room,99,1,13,2019-09-22,0.53,2,180,220.07218772053255
+7,15300175,Downtown central spacious apartment,47463341,John,,Downtown,49.28484,-123.11437,Private room,99,1,1,2016-10-01,0.02,3,0,232.8707375633638
+2,4527258,"Private Cozy Room/Gym/Pool/Sauna,..",16631729,Nima,,Downtown Eastside,49.28318,-123.11256,Private room,49,90,37,2020-10-01,1.48,2,177,239.0835865935133
+13,45221564,King-size Bed with 5-☆ Sky-level Views (long term),733981,Jeff,,Downtown Eastside,49.2841,-123.10826,Entire home/apt,96,30,0,,,1,0,241.84677208637459
+0,1360765,Ultra Modern Apartment in Yaletow,7338933,Sadiq,,Downtown,49.284,-123.11432,Entire home/apt,97,30,112,2016-06-08,1.31,3,188,259.703309440616
+4,9718956,Large bedroom just 2 minutes from ocean!,47463341,John,,Downtown Eastside,49.28284,-123.11286,Private room,99,1,2,2016-10-16,0.03,3,365,282.54147587386433
+6,14807169,Studio appartment in Gastown,5343923,Matt,,Downtown Eastside,49.28306,-123.10877,Entire home/apt,55,30,8,2017-08-05,0.13,1,0,290.08044133735103
+10,33557697,Gorgeous loft style 1br at an Iconic Building,67993397,Maulen,,Downtown Eastside,49.28405,-123.1074,Entire home/apt,90,90,0,,,1,0,300.3686165355263
+9,27506091,Sunny Gastown room with private washroom,92062409,Katherine,,Downtown Eastside,49.28378,-123.1073,Private room,75,1,17,2019-05-03,0.52,1,0,320.0265074121259
+5,14112559,Amazing view from a private room,9341671,Rossina,,Downtown,49.28353,-123.11524,Private room,90,30,4,2016-09-29,0.07,2,0,343.6833227646273
