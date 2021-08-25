@@ -223,7 +223,7 @@ plot_density.py
 
 ## Disclaimer
 
-**This repository is ONLY for backup. Students should NEVER use this repository to finish their works, IN ANY WAY.**
+**This repository is *ONLY* for backup. Students should *NEVER* use this repository to finish their works, *IN ANY WAY*.**
 
 It is expected that within this course, the highest standards of academic integrity will be maintained, in
 keeping with SFU’s Policy S10.01, `Code of Academic Integrity and Good Conduct`.
