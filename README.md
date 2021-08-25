@@ -247,6 +247,8 @@ All instances of academic dishonesty will be dealt with severely and according t
 that Student Services will be notified, and they will record the dishonesty in the student's file. Students
 are strongly encouraged to review SFU’s Code of Academic Integrity and Good Conduct (S10.01) available
 online at: http://www.sfu.ca/policies/gazette/student/s10-01.html.
+
+
 ## Epilogue
 
 1. Group Doge presents its compliments to the instructor Dr. Baker and teaching assistants in the course of computational data science.
