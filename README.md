@@ -257,7 +257,7 @@ online at: http://www.sfu.ca/policies/gazette/student/s10-01.html.
 
 
 
-Best Regards,
+Best Regards, 
 
 Group Doge  <img src="https://www.heredg.com/wp-content/uploads/2020/06/%C5%92%C2%A2%E2%80%93%E2%89%88%C3%95%C2%BA%E2%88%86%C2%A8_20200530192407.jpg" height="30" width="30">
 
